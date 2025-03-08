@@ -1,2 +1,3 @@
 # PowerCodePowerCodeIntroduction
 PowerObjectives
+SetupGuide
