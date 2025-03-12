@@ -2,3 +2,4 @@
 PowerObjectives
 SetupGuide
 PowerFeatures
+DependenciesList
