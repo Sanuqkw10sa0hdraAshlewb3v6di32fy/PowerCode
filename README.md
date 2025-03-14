@@ -3,3 +3,4 @@ PowerObjectives
 SetupGuide
 PowerFeatures
 DependenciesList
+CodeExamples
