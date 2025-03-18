@@ -5,3 +5,4 @@ PowerFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
