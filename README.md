@@ -10,3 +10,4 @@ ErrorHandling
 LicenseDetails
 PowerFAQ
 Changelog
+TestingInstructions
