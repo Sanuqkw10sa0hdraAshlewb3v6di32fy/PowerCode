@@ -12,3 +12,4 @@ PowerFAQ
 Changelog
 TestingInstructions
 PowerPerformance
+CommunityResources
